@@ -5,3 +5,5 @@ Check out the accompanying [blog post](https://www.instructables.com/Smart-Hangi
 
 > ![](./teaser.png)
 
+
+[![Everything Is AWESOME](./teaser.png)](https://www.youtube.com/watch?v=LnUSYzTdc5s&t=12 "Everything Is AWESOME")
